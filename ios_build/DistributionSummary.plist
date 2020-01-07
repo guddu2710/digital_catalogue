@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Runner.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+				<key>dateExpires</key>
+				<string>21/08/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Reachability.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>connectivity.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>device_info.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>image_picker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>path_provider.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A9DC8FBC5195D7B0A8B1B386B209F76492D5BE79</string>
+						<key>dateExpires</key>
+						<string>21/08/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>shared_preferences.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F3B7Z77Y48</string>
+						<key>name</key>
+						<string>Miltan Chaudhury</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F3B7Z77Y48.com.digitalcatalogue.digitalCatalogue</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F3B7Z77Y48</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F3B7Z77Y48.com.digitalcatalogue.digitalCatalogue</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>422d8d0b-5500-4e55-b68a-5f9da6f6f9b6</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F3B7Z77Y48</string>
+				<key>name</key>
+				<string>Miltan Chaudhury</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
